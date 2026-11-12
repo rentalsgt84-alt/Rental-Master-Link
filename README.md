@@ -1,11 +1,5 @@
-# 📌 Kumpulan Link Penting
-
-Silakan klik link di bawah ini untuk mengakses halaman tujuan:
-
-### Pekerjaan & Dokumen
-* [Laporan Bulanan](https://docs.google.com/...) - Dokumen rekap bulanan
-* [Jadwal Piket](https://sheets.google.com/...) - Spreadsheet jadwal tim
-
-### Sosial Media & Hiburan
-* [YouTube](https://www.youtube.com) - Menonton video
-* [Instagram](https://www.instagram.com) - Akun resmi
+* <img src="https://cdn.simpleicons.org/youtube/FF0000" width="16" height="16"> [Channel YouTube](https://youtube.com)
+* <img src="https://cdn.simpleicons.org/instagram/E4405F" width="16" height="16"> [Akun Instagram](https://instagram.com)
+* <img src="https://cdn.simpleicons.org/notion/000000" width="16" height="16"> [Catatan Notion](https://notion.so)
+* <img src="https://cdn.simpleicons.org/googledrive/4285F4" width="16" height="16"> [Google Drive Tim](https://drive.google.com)
+* <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="16" height="16"> [Chat Admin](https://wa.me/628123456789)
